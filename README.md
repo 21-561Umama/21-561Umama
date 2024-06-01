@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @21-561Umama
 - 👀 I’m interested in Web development and data analytics
-- 🌱 I’m currently learning js advanced dom manipulation
 - 💞️ I’m looking to collaborate 
   
 
